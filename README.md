@@ -6,3 +6,6 @@
   
 2. 及时通讯功能
 <img src="https://github.com/wsbblyy/monitor/blob/master/1.jpg" width="350"/>
+
+3. 关于视频直播功能我们需要根据硬件提供借口获取数据源通过服务器传给前端
+
